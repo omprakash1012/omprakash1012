@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi, I'm Omprakash Reddy Vallapu
 
-<!--
-**omprakash1012/omprakash1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Engineer & Data Analyst | Generative AI, LLMs, RAG, MLOps
 
-Here are some ideas to get you started:
+I'm an AI/ML Engineer and Data Analyst with 4+ years of experience across banking, healthcare, and financial services. I build predictive models, automate data pipelines, and develop LLM-powered applications using RAG and LangChain, turning business problems into deployed, measurable data solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building ML pipelines and Generative AI applications in production healthcare systems. Deepening my expertise in LLM fine-tuning, AI agents, and MLOps at scale. M.S. Computer Science, Florida Atlantic University (GPA 3.9/4.0). Reach me at oreddy78@gmail.com or on LinkedIn: linkedin.com/in/prakashvallapu
+
+## Tech Stack
+
+Languages: Python, SQL, R, Java
+
+ML / Deep Learning: TensorFlow, PyTorch, Scikit-learn, XGBoost
+
+Generative AI: OpenAI API, LangChain, Hugging Face, RAG, Prompt Engineering
+
+Cloud / MLOps: AWS (SageMaker, Lambda, S3), Azure ML, Docker, Kubernetes, MLflow
+
+Data: Pandas, PostgreSQL, Snowflake, Power BI, Tableau
+
+## Featured Projects
+
+**RAG Document Q&A Chatbot** - Retrieval-Augmented Generation pipeline that answers questions over documents with cited, grounded answers. Cut document lookup time by ~35%.
+https://github.com/omprakash1012/rag-document-qa-chatbot
+
+**Customer Churn Prediction** - Classification pipeline (Logistic Regression, Random Forest, XGBoost) that flags at-risk customers for targeted retention.
+https://github.com/omprakash1012/customer-churn-prediction
+
+**Sales / Demand Forecasting** - Time-series forecasting with Prophet/ARIMA to optimize inventory and staffing, exported to Power BI dashboards.
+https://github.com/omprakash1012/sales-demand-forecasting
+
+## Experience Snapshot
+
+AI/ML Engineer, UnitedHealthcare (2025-Present): risk scoring & readmission models, SageMaker/Docker/FastAPI deployment, MLflow monitoring.
+
+AI/ML Engineer, Vanguard (2024-2025): RAG pipelines with LangChain/FAISS, cut document search time 30%, 99.5% API uptime.
+
+Data Analyst, JPMorgan Chase & Co. (2021-2023): fraud/risk analytics, automated dashboards, SQL-driven reporting.
