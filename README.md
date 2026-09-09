@@ -6,6 +6,9 @@ I'm an AI/ML Engineer and Data Analyst with 4+ years of experience across bankin
 
 Currently building ML pipelines and Generative AI applications in production healthcare systems. Deepening my expertise in LLM fine-tuning, AI agents, and MLOps at scale. M.S. Computer Science, Florida Atlantic University (GPA 3.9/4.0). Reach me at oreddy78@gmail.com or on LinkedIn: linkedin.com/in/prakashvallapu
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=omprakash1012&show_icons=true&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omprakash1012&layout=compact&hide_border=true&theme=default)
+
 ## Tech Stack
 
 Languages: Python, SQL, R, Java
@@ -28,6 +31,9 @@ https://github.com/omprakash1012/customer-churn-prediction
 
 **Sales / Demand Forecasting** - Time-series forecasting with Prophet/ARIMA to optimize inventory and staffing, exported to Power BI dashboards.
 https://github.com/omprakash1012/sales-demand-forecasting
+
+**ML Data Prep Utils** - Reusable pandas/numpy helpers for data cleaning and feature engineering, factored out of patterns shared across the projects above.
+https://github.com/omprakash1012/ml-data-prep-utils
 
 ## Experience Snapshot
 
