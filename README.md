@@ -6,6 +6,8 @@ I'm an AI/ML Engineer and Data Analyst with 4+ years of experience across bankin
 
 Currently building ML pipelines and Generative AI applications in production healthcare systems. Deepening my expertise in LLM fine-tuning, AI agents, and MLOps at scale. M.S. Computer Science, Florida Atlantic University (GPA 3.9/4.0). Reach me at oreddy78@gmail.com or on LinkedIn: linkedin.com/in/prakashvallapu
 
+**Recently shipped:** docstrings and small fixes across the RAG chatbot, churn prediction, and demand forecasting projects, plus README/usage-example polish on the shared ML Data Prep Utils library.
+
 ## Tech Stack
 
 Languages: Python, SQL, R, Java
